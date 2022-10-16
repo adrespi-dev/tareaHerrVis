@@ -1,9 +1,5 @@
 [
     {
-        "mes": "ABRIL",
-        "cantidad": 1905
-    },
-    {
         "mes": "ENERO",
         "cantidad": 1739
     },
@@ -12,15 +8,19 @@
         "cantidad": 1672
     },
     {
-        "mes": "JUNIO",
-        "cantidad": 1694
-    },
-    {
         "mes": "MARZO",
         "cantidad": 1727
     },
     {
+        "mes": "ABRIL",
+        "cantidad": 1905
+    },
+    {
         "mes": "MAYO",
         "cantidad": 1855
+    },
+    {
+        "mes": "JUNIO",
+        "cantidad": 1694
     }
 ]
