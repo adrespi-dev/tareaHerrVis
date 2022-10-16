@@ -1,0 +1,80 @@
+[
+    {
+        "mes": "ABRIL",
+        "clases": {
+            "CHOQUES": 870,
+            "ATROPELLOS": 244,
+            "ESTRELLAMIENTOS": 263,
+            "PÉRDIDA DE PISTA": 323,
+            "CAÍDA DE PASAJEROS": 48,
+            "OTROS": 51,
+            "VOLCAMIENTOS": 31,
+            "ROZAMIENTOS": 75
+        }
+    },
+    {
+        "mes": "ENERO",
+        "clases": {
+            "CHOQUES": 796,
+            "ATROPELLOS": 203,
+            "ESTRELLAMIENTOS": 257,
+            "PÉRDIDA DE PISTA": 299,
+            "CAÍDA DE PASAJEROS": 41,
+            "OTROS": 42,
+            "VOLCAMIENTOS": 27,
+            "ROZAMIENTOS": 74
+        }
+    },
+    {
+        "mes": "FEBRERO",
+        "clases": {
+            "CHOQUES": 783,
+            "ATROPELLOS": 219,
+            "ESTRELLAMIENTOS": 245,
+            "PÉRDIDA DE PISTA": 245,
+            "CAÍDA DE PASAJEROS": 35,
+            "OTROS": 47,
+            "VOLCAMIENTOS": 21,
+            "ROZAMIENTOS": 77
+        }
+    },
+    {
+        "mes": "JUNIO",
+        "clases": {
+            "CHOQUES": 800,
+            "ATROPELLOS": 236,
+            "ESTRELLAMIENTOS": 219,
+            "PÉRDIDA DE PISTA": 243,
+            "CAÍDA DE PASAJEROS": 62,
+            "OTROS": 45,
+            "VOLCAMIENTOS": 20,
+            "ROZAMIENTOS": 69
+        }
+    },
+    {
+        "mes": "MARZO",
+        "clases": {
+            "CHOQUES": 800,
+            "ATROPELLOS": 230,
+            "ESTRELLAMIENTOS": 221,
+            "PÉRDIDA DE PISTA": 272,
+            "CAÍDA DE PASAJEROS": 45,
+            "OTROS": 44,
+            "VOLCAMIENTOS": 20,
+            "ROZAMIENTOS": 95
+        }
+    },
+    {
+        "mes": "MAYO",
+        "clases": {
+            "CHOQUES": 909,
+            "ATROPELLOS": 234,
+            "ESTRELLAMIENTOS": 213,
+            "PÉRDIDA DE PISTA": 300,
+            "CAÍDA DE PASAJEROS": 52,
+            "OTROS": 39,
+            "VOLCAMIENTOS": 27,
+            "ROZAMIENTOS": 81
+        }
+    }
+]
