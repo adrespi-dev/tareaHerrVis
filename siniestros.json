@@ -1,0 +1,278 @@
+{
+    "siniestros": [
+        {
+            "mes": "ENERO",
+            "cantidad": 1739
+        },
+        {
+            "mes": "FEBRERO",
+            "cantidad": 1672
+        },
+        {
+            "mes": "MARZO",
+            "cantidad": 1727
+        },
+        {
+            "mes": "ABRIL",
+            "cantidad": 1905
+        },
+        {
+            "mes": "MAYO",
+            "cantidad": 1855
+        },
+        {
+            "mes": "JUNIO",
+            "cantidad": 1694
+        }
+    ],
+    "clases": [
+        {
+            "mes": "ABRIL",
+            "clases": {
+                "CHOQUES": 870,
+                "ATROPELLOS": 244,
+                "ESTRELLAMIENTOS": 263,
+                "PÉRDIDA DE PISTA": 323,
+                "CAÍDA DE PASAJEROS": 48,
+                "OTROS": 51,
+                "VOLCAMIENTOS": 31,
+                "ROZAMIENTOS": 75
+            }
+        },
+        {
+            "mes": "ENERO",
+            "clases": {
+                "CHOQUES": 796,
+                "ATROPELLOS": 203,
+                "ESTRELLAMIENTOS": 257,
+                "PÉRDIDA DE PISTA": 299,
+                "CAÍDA DE PASAJEROS": 41,
+                "OTROS": 42,
+                "VOLCAMIENTOS": 27,
+                "ROZAMIENTOS": 74
+            }
+        },
+        {
+            "mes": "FEBRERO",
+            "clases": {
+                "CHOQUES": 783,
+                "ATROPELLOS": 219,
+                "ESTRELLAMIENTOS": 245,
+                "PÉRDIDA DE PISTA": 245,
+                "CAÍDA DE PASAJEROS": 35,
+                "OTROS": 47,
+                "VOLCAMIENTOS": 21,
+                "ROZAMIENTOS": 77
+            }
+        },
+        {
+            "mes": "JUNIO",
+            "clases": {
+                "CHOQUES": 800,
+                "ATROPELLOS": 236,
+                "ESTRELLAMIENTOS": 219,
+                "PÉRDIDA DE PISTA": 243,
+                "CAÍDA DE PASAJEROS": 62,
+                "OTROS": 45,
+                "VOLCAMIENTOS": 20,
+                "ROZAMIENTOS": 69
+            }
+        },
+        {
+            "mes": "MARZO",
+            "clases": {
+                "CHOQUES": 800,
+                "ATROPELLOS": 230,
+                "ESTRELLAMIENTOS": 221,
+                "PÉRDIDA DE PISTA": 272,
+                "CAÍDA DE PASAJEROS": 45,
+                "OTROS": 44,
+                "VOLCAMIENTOS": 20,
+                "ROZAMIENTOS": 95
+            }
+        },
+        {
+            "mes": "MAYO",
+            "clases": {
+                "CHOQUES": 909,
+                "ATROPELLOS": 234,
+                "ESTRELLAMIENTOS": 213,
+                "PÉRDIDA DE PISTA": 300,
+                "CAÍDA DE PASAJEROS": 52,
+                "OTROS": 39,
+                "VOLCAMIENTOS": 27,
+                "ROZAMIENTOS": 81
+            }
+        }
+    ],
+    "provincias": [
+        {
+            "mes": "ABRIL",
+            "provincias": {
+                "GUAYAS": 639,
+                "PICHINCHA": 347,
+                "LOS RÍOS": 108,
+                "MANABÍ": 167,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 97,
+                "AZUAY": 110,
+                "ORELLANA": 5,
+                "ESMERALDAS": 17,
+                "SANTA ELENA": 61,
+                "TUNGURAHUA": 95,
+                "IMBABURA": 23,
+                "EL ORO": 90,
+                "LOJA": 49,
+                "BOLÍVAR": 9,
+                "CHIMBORAZO": 41,
+                "COTOPAXI": 12,
+                "CAÑAR": 15,
+                "MORONA SANTIAGO": 4,
+                "PASTAZA": 2,
+                "NAPO": 7,
+                "ZAMORA CHINCHIPE": 5,
+                "SUCUMBÍOS": 0,
+                "CARCHI": 2
+            }
+        },
+        {
+            "mes": "ENERO",
+            "provincias": {
+                "GUAYAS": 598,
+                "PICHINCHA": 304,
+                "LOS RÍOS": 105,
+                "MANABÍ": 165,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 108,
+                "AZUAY": 76,
+                "ORELLANA": 5,
+                "ESMERALDAS": 23,
+                "SANTA ELENA": 53,
+                "TUNGURAHUA": 87,
+                "IMBABURA": 22,
+                "EL ORO": 69,
+                "LOJA": 47,
+                "BOLÍVAR": 8,
+                "CHIMBORAZO": 40,
+                "COTOPAXI": 7,
+                "CAÑAR": 4,
+                "MORONA SANTIAGO": 3,
+                "PASTAZA": 5,
+                "NAPO": 7,
+                "ZAMORA CHINCHIPE": 2,
+                "SUCUMBÍOS": 1,
+                "CARCHI": 0
+            }
+        },
+        {
+            "mes": "FEBRERO",
+            "provincias": {
+                "GUAYAS": 540,
+                "PICHINCHA": 305,
+                "LOS RÍOS": 75,
+                "MANABÍ": 149,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 91,
+                "AZUAY": 112,
+                "ORELLANA": 2,
+                "ESMERALDAS": 24,
+                "SANTA ELENA": 43,
+                "TUNGURAHUA": 105,
+                "IMBABURA": 27,
+                "EL ORO": 54,
+                "LOJA": 48,
+                "BOLÍVAR": 4,
+                "CHIMBORAZO": 56,
+                "COTOPAXI": 10,
+                "CAÑAR": 9,
+                "MORONA SANTIAGO": 3,
+                "PASTAZA": 6,
+                "NAPO": 2,
+                "ZAMORA CHINCHIPE": 3,
+                "SUCUMBÍOS": 0,
+                "CARCHI": 4
+            }
+        },
+        {
+            "mes": "JUNIO",
+            "provincias": {
+                "GUAYAS": 697,
+                "PICHINCHA": 258,
+                "LOS RÍOS": 106,
+                "MANABÍ": 160,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 77,
+                "AZUAY": 78,
+                "ORELLANA": 5,
+                "ESMERALDAS": 13,
+                "SANTA ELENA": 45,
+                "TUNGURAHUA": 76,
+                "IMBABURA": 20,
+                "EL ORO": 56,
+                "LOJA": 53,
+                "BOLÍVAR": 4,
+                "CHIMBORAZO": 18,
+                "COTOPAXI": 8,
+                "CAÑAR": 5,
+                "MORONA SANTIAGO": 1,
+                "PASTAZA": 4,
+                "NAPO": 2,
+                "ZAMORA CHINCHIPE": 3,
+                "SUCUMBÍOS": 0,
+                "CARCHI": 5
+            }
+        },
+        {
+            "mes": "MARZO",
+            "provincias": {
+                "GUAYAS": 599,
+                "PICHINCHA": 319,
+                "LOS RÍOS": 94,
+                "MANABÍ": 166,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 79,
+                "AZUAY": 97,
+                "ORELLANA": 5,
+                "ESMERALDAS": 16,
+                "SANTA ELENA": 43,
+                "TUNGURAHUA": 75,
+                "IMBABURA": 23,
+                "EL ORO": 77,
+                "LOJA": 55,
+                "BOLÍVAR": 4,
+                "CHIMBORAZO": 38,
+                "COTOPAXI": 5,
+                "CAÑAR": 6,
+                "MORONA SANTIAGO": 12,
+                "PASTAZA": 6,
+                "NAPO": 2,
+                "ZAMORA CHINCHIPE": 5,
+                "SUCUMBÍOS": 0,
+                "CARCHI": 1
+            }
+        },
+        {
+            "mes": "MAYO",
+            "provincias": {
+                "GUAYAS": 684,
+                "PICHINCHA": 299,
+                "LOS RÍOS": 102,
+                "MANABÍ": 130,
+                "SANTO DOMINGO DE LOS TSÁCHILAS": 92,
+                "AZUAY": 103,
+                "ORELLANA": 4,
+                "ESMERALDAS": 19,
+                "SANTA ELENA": 51,
+                "TUNGURAHUA": 97,
+                "IMBABURA": 30,
+                "EL ORO": 80,
+                "LOJA": 60,
+                "BOLÍVAR": 13,
+                "CHIMBORAZO": 38,
+                "COTOPAXI": 13,
+                "CAÑAR": 14,
+                "MORONA SANTIAGO": 10,
+                "PASTAZA": 6,
+                "NAPO": 2,
+                "ZAMORA CHINCHIPE": 5,
+                "SUCUMBÍOS": 1,
+                "CARCHI": 2
+            }
+        }
+    ]
+}
